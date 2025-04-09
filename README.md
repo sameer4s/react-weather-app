@@ -2,14 +2,13 @@
 
 A fully responsive and interactive weather dashboard built using React.js and Tailwind CSS, powered by the OpenWeatherMap API. Users can search for any city and view its real-time weather data in a beautifully themed UI with light/dark mode, suggestions, and more.
 
-## 🚀 Live Demo
+##  Live Demo
 
-🔗 [Deployed App URL](https://weatherreport-sand.vercel.app/)  
-🔗 [GitHub Repository](https://github.com/sameer4s/react-weather-app)
+[Deployed App URL](https://weatherreport-sand.vercel.app/)   [GitHub Repository](https://github.com/sameer4s/react-weather-app)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -22,24 +21,18 @@ A fully responsive and interactive weather dashboard built using React.js and Ta
 
 ---
 
-## 📸 Features
+## Features
 
-- 🔍 Search any city with      auto-suggestions     
-- 🌡️ Real-time weather data (temperature, humidity, wind, pressure, etc.)
-- 🎨 Dynamic weather icons based on conditions and time of day
-- 🌓 Light/Dark mode toggle with localStorage memory
-- ⏳ Loader animation while fetching
-- ⚠️ Friendly error handling (invalid city or API failure)
-- 🧠 Search history (last 5 recent cities)
-- ⌨️ Keyboard navigation for suggestions (↑ ↓ Enter)
-- ♻️ Reset button to clear state
+- Search any city with      auto-suggestions     
+- Real-time weather data (temperature, humidity, wind, pressure, etc.)
+- Dynamic weather icons based on conditions and time of day
+- Light/Dark mode toggle with localStorage memory
+- Loader animation while fetching
+- Friendly error handling (invalid city or API failure)
+- Search history 
+- Keyboard navigation for suggestions (↑ ↓ Enter)
+- Reset/Home button to clear state
 
 ---
 
-## 🧪 Setup Instructions
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
