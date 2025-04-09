@@ -4,8 +4,8 @@ A fully responsive and interactive weather dashboard built using React.js and Ta
 
 ## 🚀 Live Demo
 
-🔗 [Deployed App URL](https://your-live-link.vercel.app)  
-🔗 [GitHub Repository](https://github.com/yourusername/weather-dashboard)
+🔗 [Deployed App URL](https://weatherreport-sand.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/sameer4s/react-weather-app)
 
 ---
 
